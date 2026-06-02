@@ -11,13 +11,13 @@ The **BYU Finance Alumni Database** — an internal, cloud-hosted CRM and
 relationship-management system that replaces fragmented spreadsheets with a
 single, alumni-centric source of truth. It supports:
 
-- 🎓 **Alumni management** — contact info, employment & education history
-- 🔎 **Search & filtering** — built for 10,000+ records
-- 📊 **Dashboard analytics** — graduation year, employer, industry, location
-- 🗺️ **Geographic mapping** — city, state, and employer clustering
-- 🤝 **Recruiting, networking & mentorship**
-- 📅 **Event management & attendance**
-- 🗂️ **Notes, interactions, attachments & audit history**
+- **Alumni management** — contact info, employment & education history
+- **Search & filtering** — built for 10,000+ records
+- **Dashboard analytics** — graduation year, employer, industry, location
+- **Geographic mapping** — city, state, and employer clustering
+- **Recruiting, networking & mentorship**
+- **Event management & attendance**
+- **Notes, interactions, attachments & audit history**
 
 ---
 
