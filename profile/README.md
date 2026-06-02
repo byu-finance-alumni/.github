@@ -7,7 +7,7 @@ alumni relationships.
 
 ## What we're building
 
-The **BYU Finance Alumni Database** — an internal, cloud-hosted CRM and
+The **BYU Finance Alumni Database**(https://finance-alumni-database.vercel.app/) — an internal, cloud-hosted CRM and
 relationship-management system that replaces fragmented spreadsheets with a
 single, alumni-centric source of truth. It supports:
 
